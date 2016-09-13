@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SauceLabsAutomation.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SauceConnectCmdRelayType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">VM</Value>
+    </Setting>
+    <Setting Name="seleniumURI" Type="System.String" Scope="User">
+      <Value Profile="(Default)">@ondemand.saucelabs.com:80</Value>
+    </Setting>
+    <Setting Name="vmSeleniumURI" Type="System.String" Scope="User">
+      <Value Profile="(Default)">@192.168.200.70:4445</Value>
+    </Setting>
+    <Setting Name="localSeleniumURI" Type="System.String" Scope="User">
+      <Value Profile="(Default)">@localhost:4445</Value>
+    </Setting>
+    <Setting Name="sauceUname" Type="System.String" Scope="User">
+      <Value Profile="(Default)">lottotestnz</Value>
+    </Setting>
+    <Setting Name="sauceUkay" Type="System.String" Scope="User">
+      <Value Profile="(Default)">4441f476-39c5-419f-9b4b-437e8323d461</Value>
+    </Setting>
+    <Setting Name="sauce_AndroidAPK_filename" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sauce-storage:mylotto-cat1.apk</Value>
+    </Setting>
+    <Setting Name="sauce_AndroidAPK_appPackage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">co.nz.mylotto.cat1</Value>
+    </Setting>
+    <Setting Name="sauce_AndroidAPK_appActivity" Type="System.String" Scope="User">
+      <Value Profile="(Default)">co.nz.mylotto.MainActivity</Value>
+    </Setting>
+    <Setting Name="sauce_IOSIPA_filename" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sauce-storage:LottoNZ.zip</Value>
+    </Setting>
+    <Setting Name="WEB_Browser" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
